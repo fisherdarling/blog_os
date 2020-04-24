@@ -1,0 +1,1 @@
+My implementation of the incredible series: [Writing an OS in Rust](https://os.phil-opp.com/) by _Philipp Oppermann_.
